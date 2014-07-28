@@ -1,0 +1,110 @@
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\obj\Debug\JavaScriptLab.csprojResolveAssemblyReference.cache
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\JavaScriptLab.dll.config
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\JavaScriptLab.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\JavaScriptLab.pdb
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Antlr3.Runtime.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\EntityFramework.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\EntityFramework.SqlServer.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Google.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Web.Infrastructure.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Newtonsoft.Json.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Owin.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.Helpers.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.Mvc.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.Optimization.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.Razor.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.Deployment.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.Razor.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\WebGrease.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.Helpers.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.Mvc.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.Optimization.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.Razor.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.Deployment.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.Razor.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Antlr3.Runtime.pdb
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Newtonsoft.Json.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\EntityFramework.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\EntityFramework.SqlServer.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Google.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\obj\Debug\JavaScriptLab.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 JavaScript\JavaScriptLab\JavaScriptLab\obj\Debug\JavaScriptLab.pdb
+D:\Github\JavaScriptLab\JavaScriptLab\bin\JavaScriptLab.dll.config
+D:\Github\JavaScriptLab\JavaScriptLab\bin\JavaScriptLab.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\JavaScriptLab.pdb
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Antlr3.Runtime.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\EntityFramework.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\EntityFramework.SqlServer.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Google.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Web.Infrastructure.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Newtonsoft.Json.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Owin.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.Helpers.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.Mvc.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.Optimization.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.Razor.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.Deployment.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.Razor.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\WebGrease.dll
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.Helpers.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.Mvc.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.Optimization.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.Razor.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.Deployment.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\System.Web.WebPages.Razor.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Antlr3.Runtime.pdb
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Newtonsoft.Json.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\EntityFramework.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\EntityFramework.SqlServer.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Google.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Github\JavaScriptLab\JavaScriptLab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Github\JavaScriptLab\JavaScriptLab\obj\Debug\JavaScriptLab.csprojResolveAssemblyReference.cache
+D:\Github\JavaScriptLab\JavaScriptLab\obj\Debug\JavaScriptLab.dll
+D:\Github\JavaScriptLab\JavaScriptLab\obj\Debug\JavaScriptLab.pdb
